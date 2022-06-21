@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437343401632",
+    "project_id": "deltronapp",
+    "storage_bucket": "deltronapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437343401632:android:9c039b2e36139ad69efbc5",
+        "android_client_info": {
+          "package_name": "com.deltronapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437343401632-f9l5h8757rboqgje21v0kej0kinp5l8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBg0fL-_QuC1dMIZqBzJh94yBhtEIvrXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437343401632-f9l5h8757rboqgje21v0kej0kinp5l8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
